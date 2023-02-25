@@ -451,7 +451,7 @@ _showForm(mapE) {
       "Zvezdara forest observatorium",
       [44.8021015,20.5135863],
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      this.getCategories[6]
+      this.getCategories[5]
     ));
 
     this.#places[8]._addPicture(new URL('https://slobodna.rs/wp-content/uploads/2019/08/beogradski-glas-opservatorija.jpg'));
